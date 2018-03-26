@@ -9,7 +9,7 @@ import java.net.URL;
  */
 
 public class SourceViewer {
-    
+
     public static void main(String[] args) {
         String url = "https://www.oreilly.com";
         InputStream in = null;
